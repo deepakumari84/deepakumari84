@@ -32,9 +32,5 @@ I'm a passionate **Full Stack Web Developer** with a strong foundation in both f
 - [LinkedIn](https://www.linkedin.com/in/deepa-kumari-1aa2522a8/)  
 - [GitHub](https://github.com/deepakumari84)
 
----
 
-### 📈 GitHub Stats
 
-![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakumari84&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakumari84&layout=compact&theme=radical)
