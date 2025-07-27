@@ -17,8 +17,9 @@ I'm a passionate **Full Stack Web Developer** with a strong foundation in both f
   <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" />
-</p>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/
+
 
 
 ### 🌐 Connect With Me
