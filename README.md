@@ -7,10 +7,9 @@ I'm a passionate **Full Stack Web Developer** with experience in building modern
 ### 💼 About Me
 
 I'm a passionate **Full Stack Web Developer** with a strong foundation in both frontend and backend technologies. I love building responsive, user-friendly web applications that solve real-world problems.
+-------
 
 ### 🛠️ Tech Stack & Tools
-### 🛠️ Languages and Tools:
-
 <p align="left">
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
